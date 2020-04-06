@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WF_02
@@ -43,7 +39,7 @@ namespace WF_02
             Form temp = sender as Form;
             temp.Text = e.Button + " " + e.Location;
 
-            switch(e.Button)
+            switch (e.Button)
             {
                 case MouseButtons.Left:
                     (sender as Form).BackColor = Color.Yellow;
