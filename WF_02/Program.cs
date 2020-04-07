@@ -21,7 +21,7 @@ namespace WF_02
             button.Top = form.Height / 2 - button.Height;
             button.Left = form.Width / 2 - button.Width / 2;
             form.Controls.Add(button); // приєднали кнопку до елементів керування форми
-
+            
             button.Click += Button_Click;
             button.MouseClick += Button_MouseClick;
             form.MouseClick += Form_MouseClick;
