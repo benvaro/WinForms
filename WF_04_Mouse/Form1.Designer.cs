@@ -35,11 +35,10 @@
             // 
             // lblRect
             // 
-            this.lblRect.AutoSize = true;
             this.lblRect.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.lblRect.Location = new System.Drawing.Point(44, 32);
             this.lblRect.Name = "lblRect";
-            this.lblRect.Size = new System.Drawing.Size(46, 17);
+            this.lblRect.Size = new System.Drawing.Size(87, 74);
             this.lblRect.TabIndex = 0;
             this.lblRect.Text = "label1";
             // 
