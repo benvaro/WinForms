@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_12_ComboBox", "WF_12_Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_13_DataSource", "WF_13_DataSource\WF_13_DataSource.csproj", "{1F30AD5A-027B-4598-9A77-BC4A9F3B7EF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_14_TrackBar", "WF_14_TrackBar\WF_14_TrackBar.csproj", "{C47875CC-5BC7-4164-97DE-956B232AF1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_15_Scrollbars", "WF_15_Scrollbars\WF_15_Scrollbars.csproj", "{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{1F30AD5A-027B-4598-9A77-BC4A9F3B7EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F30AD5A-027B-4598-9A77-BC4A9F3B7EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F30AD5A-027B-4598-9A77-BC4A9F3B7EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47875CC-5BC7-4164-97DE-956B232AF1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47875CC-5BC7-4164-97DE-956B232AF1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47875CC-5BC7-4164-97DE-956B232AF1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47875CC-5BC7-4164-97DE-956B232AF1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
