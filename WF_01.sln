@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_14_TrackBar", "WF_14_Tra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_15_Scrollbars", "WF_15_Scrollbars\WF_15_Scrollbars.csproj", "{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_16_NotifyIcon", "WF_16_NotifyIcon\WF_16_NotifyIcon.csproj", "{00C743A4-2297-4B08-A585-DEC3A86DF58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_17_ErrorProvider", "WF_17_ErrorProvider\WF_17_ErrorProvider.csproj", "{DB389256-401F-483E-9A7A-3EC3C789151F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C75B6C4C-7F57-4C51-9BCB-B15539FE20D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C743A4-2297-4B08-A585-DEC3A86DF58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C743A4-2297-4B08-A585-DEC3A86DF58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C743A4-2297-4B08-A585-DEC3A86DF58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C743A4-2297-4B08-A585-DEC3A86DF58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB389256-401F-483E-9A7A-3EC3C789151F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB389256-401F-483E-9A7A-3EC3C789151F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB389256-401F-483E-9A7A-3EC3C789151F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB389256-401F-483E-9A7A-3EC3C789151F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -38,6 +38,7 @@ namespace WF_14_TrackBar
        //         progressBar1.Value = progressBar1.Minimum;
            /* else*/ //progressBar1.Value += 10;
            progressBar1.Increment(10);
+            
         }
 
         private void progressBar1_Click(object sender, EventArgs e)
