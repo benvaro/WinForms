@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_16_NotifyIcon", "WF_16_N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_17_ErrorProvider", "WF_17_ErrorProvider\WF_17_ErrorProvider.csproj", "{DB389256-401F-483E-9A7A-3EC3C789151F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_18_Dialogs", "WF_18_Dialogs\WF_18_Dialogs.csproj", "{CE212045-663E-493A-A955-6E86774783A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{DB389256-401F-483E-9A7A-3EC3C789151F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB389256-401F-483E-9A7A-3EC3C789151F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB389256-401F-483E-9A7A-3EC3C789151F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE212045-663E-493A-A955-6E86774783A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE212045-663E-493A-A955-6E86774783A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE212045-663E-493A-A955-6E86774783A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE212045-663E-493A-A955-6E86774783A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
