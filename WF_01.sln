@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_17_ErrorProvider", "WF_1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_18_Dialogs", "WF_18_Dialogs\WF_18_Dialogs.csproj", "{CE212045-663E-493A-A955-6E86774783A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_19_InteractionBetweenForms", "WF_19_InteractionBetweenForms\WF_19_InteractionBetweenForms.csproj", "{52CE1828-F110-4288-B080-8E0D0939F76A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{CE212045-663E-493A-A955-6E86774783A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE212045-663E-493A-A955-6E86774783A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE212045-663E-493A-A955-6E86774783A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CE1828-F110-4288-B080-8E0D0939F76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CE1828-F110-4288-B080-8E0D0939F76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CE1828-F110-4288-B080-8E0D0939F76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CE1828-F110-4288-B080-8E0D0939F76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
