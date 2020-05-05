@@ -21,7 +21,7 @@ namespace WF_19_InteractionBetweenForms
 {
     public partial class Parent : Form
     {
-     public List<Child> children = new List<Child>();
+        public List<Child> children = new List<Child>();
         public Parent()
         {
             InitializeComponent();
@@ -41,7 +41,7 @@ namespace WF_19_InteractionBetweenForms
         {
             Child child = MakeChildForm();
             DialogResult dr = child.ShowDialog();
-        //    MessageBox.Show($"MessageBox after child.ShowDialog() with result {0}", dr.ToString());
+            //    MessageBox.Show($"MessageBox after child.ShowDialog() with result {0}", dr.ToString());
         }
 
         private Child MakeChildForm()
@@ -59,7 +59,7 @@ namespace WF_19_InteractionBetweenForms
         {
             Child child = MakeChildForm();
             child.Show();
-       //     MessageBox.Show($"MessageBox after child.Show() with result");
+            //     MessageBox.Show($"MessageBox after child.Show() with result");
             children.Add(child);
         }
 
@@ -87,3 +87,4 @@ namespace WF_19_InteractionBetweenForms
             //    }
         }
     }
+}

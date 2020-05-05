@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_18_Dialogs", "WF_18_Dial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_19_InteractionBetweenForms", "WF_19_InteractionBetweenForms\WF_19_InteractionBetweenForms.csproj", "{52CE1828-F110-4288-B080-8E0D0939F76A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_20_MDI", "WF_20_MDI\WF_20_MDI.csproj", "{65F9CE6A-B486-4D51-A31B-3E5225E0C664}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{52CE1828-F110-4288-B080-8E0D0939F76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52CE1828-F110-4288-B080-8E0D0939F76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52CE1828-F110-4288-B080-8E0D0939F76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F9CE6A-B486-4D51-A31B-3E5225E0C664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F9CE6A-B486-4D51-A31B-3E5225E0C664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F9CE6A-B486-4D51-A31B-3E5225E0C664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F9CE6A-B486-4D51-A31B-3E5225E0C664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
