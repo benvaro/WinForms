@@ -32,6 +32,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.lbDestination = new System.Windows.Forms.ListBox();
             this.tbSource = new System.Windows.Forms.TextBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -72,12 +74,21 @@
             this.tbSource.TabIndex = 2;
             this.tbSource.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tbSource_MouseDown);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(243, 255);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(105, 94);
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            // 
             // MainForm
             // 
             this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(365, 320);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.tbSource);
             this.Controls.Add(this.lbDestination);
             this.Controls.Add(this.label2);
@@ -85,6 +96,7 @@
             this.Name = "MainForm";
             this.Text = "Drag&Drop";
             this.DragOver += new System.Windows.Forms.DragEventHandler(this.MainForm_DragOver);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -96,6 +108,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ListBox lbDestination;
         private System.Windows.Forms.TextBox tbSource;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
