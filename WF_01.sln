@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_23_ListView", "WF_23_Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_24_ListViewExample", "WF_24_ListViewExample\WF_24_ListViewExample.csproj", "{64487072-EE9C-4614-98D9-2B77CD67A051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_25_TreeView", "WF_25_TreeView\WF_25_TreeView.csproj", "{4FE04510-59CD-412E-8E2C-740CBF6DEA6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{64487072-EE9C-4614-98D9-2B77CD67A051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64487072-EE9C-4614-98D9-2B77CD67A051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64487072-EE9C-4614-98D9-2B77CD67A051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE04510-59CD-412E-8E2C-740CBF6DEA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE04510-59CD-412E-8E2C-740CBF6DEA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE04510-59CD-412E-8E2C-740CBF6DEA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE04510-59CD-412E-8E2C-740CBF6DEA6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
