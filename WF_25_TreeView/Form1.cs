@@ -91,7 +91,7 @@ namespace WF_25_TreeView
             }
             treeView1.Refresh();
         }
-
+       
         private void treeView1_BeforeExpand(object sender, TreeViewCancelEventArgs e)
         {
             toolStripStatusLabel2.Text = "Before expand " + e.Node;
